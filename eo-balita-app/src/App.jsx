@@ -192,7 +192,7 @@ export default function App() {
             <span style={{fontSize:24}}>🎈</span>
             <div>
               <div style={{fontFamily:"'Sora',sans-serif",fontWeight:800,fontSize:16,color:C.text}}>EO Balita Admin</div>
-              <div style={{color:C.muted,fontSize:10}}>Powered by ClaudeHR · PT Javadwipa Duta Mandiri</div>
+              <div style={{color:C.muted,fontSize:10}}>Powered by LittleSpace</div>
             </div>
           </div>
           <div style={{display:"flex",gap:4,background:C.bgCard,borderRadius:10,padding:4}}>
