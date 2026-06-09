@@ -1,6 +1,6 @@
 # 🎈 EO Balita Admin App
 
-Sistem Administrasi Event Organizer Balita — Powered by ClaudeHR | PT Javadwipa Duta Mandiri
+Sistem Administrasi Event Organizer Balita — Powered by ClaudeHR | 
 
 ## Fitur
 - 📊 Dashboard realtime terintegrasi
